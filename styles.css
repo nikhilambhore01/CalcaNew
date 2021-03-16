@@ -91,3 +91,31 @@
 #button-zero {
     width: 50%;
 }
+
+/* ****************button slieder******** */
+
+
+/* body #btn{
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+} */
+
+body #btn #space{
+    width: 37px;
+    height: 15px;
+    border-radius: 10px;
+    margin: 2%;
+    /* padding: 2px; */
+    background-color: rgba(246, 252, 253, 0.966);
+    box-shadow: 0px 0px 15px rgb(206, 202, 202);
+}
+
+body #btn #space #slide{
+    position: relative;
+    width: 40%;
+    height: inherit;
+    background-color: black;
+    border-radius: 10px;
+    display: flex;
+}

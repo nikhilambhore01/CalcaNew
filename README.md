@@ -7,3 +7,4 @@ js is used for fetching data from user input,
 responding as result to the screen and performing mathematical operations.
 
 
+[click](https://nikhilambhore01.github.io/CalcaNew/)

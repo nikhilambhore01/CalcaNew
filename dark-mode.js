@@ -25,8 +25,8 @@ function toggle() {
     var b = document.getElementById("buttons-container");
     b.style.backgroundColor = "#9c7070";
 
-    var d = document.body;
-    d.style.backgroundColor = "silver";
+    // var d = document.body;
+    // d.style.backgroundColor = "silver";
 
     var t = document.getElementById("calculator");
     t.style.backgroundColor = "#9c7070";

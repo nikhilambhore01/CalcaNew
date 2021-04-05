@@ -16,7 +16,7 @@
     height: 80%;
     min-width: 300px;
     min-height: 400px;
-    background-color: var(--light-grey);
+    background-color: rgba(16, 30, 54, 0.966);
     margin: auto;
     margin-top: 80px;
     border: 2px solid var(--light-grey);
@@ -50,7 +50,7 @@
 }
 
 #display-container p {
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 50px;
     margin: 0.5rem;
     vertical-align: text-bottom;
@@ -62,7 +62,7 @@
     min-height: 300px;
     border: var(--border-width) solid var(--light-grey);
     border-radius: var(--border-radius);
-    background-color: var(--light-grey);
+    background-color: rgb(233, 62, 76, 0.836);
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
@@ -117,8 +117,9 @@ body #btn #space{
     border-radius: 10px;
     margin: 2%;
     /* padding: 2px; */
-    background-color: rgba(249, 246, 253, 0.966);
+    /* background-color: rgba(249, 246, 253, 0.966); */
     box-shadow: 0px 0px 15px rgb(206, 202, 202);
+    background-color: rgb(127, 140, 69, 0.78);
 }
 
 body #btn #space #slide{

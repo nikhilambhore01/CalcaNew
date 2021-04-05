@@ -7,4 +7,4 @@
 - responding as result to the screen and performing mathematical operations.
 
 
-[click](https://nikhilambhore01.github.io/CalcaNew/)
+[DEMO](https://nikhilambhore01.github.io/CalcaNew/)

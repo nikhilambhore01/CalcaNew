@@ -1,4 +1,4 @@
-#Basic Calculator with Dark Mode
+# Basic Calculator with Dark Mode
 
 - This is a basic calculator developed using Html, CSS and Javascript.
 - Javascript is being used to perform mathematic operations.
@@ -8,4 +8,4 @@
 - user can switch between two modes.
 
 
-[DEMO](https://nikhilambhore01.github.io/CalcaNew/)
+# [DEMO](https://nikhilambhore01.github.io/CalcaNew/)
